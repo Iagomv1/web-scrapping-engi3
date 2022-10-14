@@ -11,7 +11,7 @@ Nesse repositório vou apresentar uma maneira bem simples de fazer um web-scrapp
 - Por quantas ações 
 
 
-O site utilizado foi a [Fundamentus](url)
+O site utilizado foi o [Fundamentus](url)
 ## Como rodar o projeto
 - Clone o repositório
 - Instale as dependências com o comando pip install -r requirements.txt
