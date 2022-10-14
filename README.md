@@ -10,7 +10,7 @@ Nesse repositório vou apresentar uma maneira bem simples de fazer um web-scrapp
 - Data de Pagamento	
 - Por quantas ações 
 
-
+O site utilizado foi [fundamentus-ENGI3](url)
 ## Como rodar o projeto
 - Clone o repositório
 - Instale as dependências com o comando pip install -r requirements.txt
