@@ -13,8 +13,6 @@ Nesse repositório vou apresentar uma maneira bem simples de fazer um web-scrapp
 
 ## Como rodar o projeto
 - Clone o repositório
-
 - Instale as dependências com o comando pip install -r requirements.txt
-
 - Rode o código e será gerado um arquivo .csv com os dados raspados
 
