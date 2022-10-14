@@ -1,13 +1,20 @@
-# web-scrapping
-### Passo-a-passo de um web-scrapping 
+# web-scrapping ENGI3
 
-Escrever aqui um pouco mais sobre o que é o web-scrapping, como ele é usado e etc.
+Nesse repositório vou apresentar uma maneira bem simples de fazer um web-scrapping dos dados da ENGI3 vindos da fundamentus, site que disponibiliza informações financeiras e fundamentalistas das empresas com ações listadas na Bovespa. O intuito da criação desse respositório seria disponilizar um script que fizesse essa raspagem da periodicidade e do valor das ações da Engie para auxiliar investidores em como diversificar seu patrimônio da melhor maneira.
+
+## A raspagem terá como output final as seguintes variáveis:
+
+- Data	
+- Valor
+- Tipo
+- Data de Pagamento	
+- Por quantas ações 
 
 
+## Como rodar o projeto
+Clone o repositório
 
-1. Abrir a pasta do projeto 
-2. Criar um ambiente virtual
-3. Instalar os módulos 
-4. Abrir um projeto no VsCode
-5. Buscar as informações no site que eu gostaria
-6. Criar o código
+Instale as dependências com o comando pip install -r requirements.txt
+
+Rode o código e será gerado um arquivo .csv com os dados raspados
+
