@@ -1,19 +1,18 @@
 # web-scrapping ENGI3
 
-Nesse repositório vou apresentar uma maneira bem simples de fazer um web-scrapping dos dados da ENGI3 vindos da fundamentus, site que disponibiliza informações financeiras e fundamentalistas das empresas com ações listadas na Bovespa. O intuito da criação desse respositório seria disponilizar um script que fizesse essa raspagem da periodicidade e do valor das ações da Engie para auxiliar investidores em como diversificar seu patrimônio da melhor maneira.
+In this repository I will present a very simple way of web-scrapping ENGI3 data from fundamentus, a site that provides financial and fundamental information about companies with shares listed on Bovespa, the brazilian market. The purpose of creating this repository would be to provide a script that would scrape the periodicity and value of Engie's shares to help investors in how to diversify their assets in the best way.
 
-## A raspagem terá como output final as seguintes variáveis:
+## The scraping will have the following variables as final output:
 
 - Data	
-- Valor
-- Tipo
-- Data de Pagamento	
-- Por quantas ações 
+- Value
+- Type
+- Day of payment
+- How many shares 
 
 
-O site utilizado foi o [Fundamentus](url)
-## Como rodar o projeto
-- Clone o repositório
-- Instale as dependências com o comando pip install -r requirements.txt
-- Rode o código e será gerado um arquivo .csv com os dados raspados
-
+The site used was [Fundamentus](url)
+## How to run the project
+- Clone the repository
+- Install dependencies with pip install -r requirements.txt command
+- Run the code and a .csv file will be generated with the scraped data
