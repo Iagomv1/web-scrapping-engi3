@@ -4,7 +4,7 @@ In this repository I will present a very simple way of web-scrapping ENGI3 data 
 
 ## The scraping will have the following variables as final output:
 
-- Data	
+- Date	
 - Value
 - Type
 - Day of payment
